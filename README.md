@@ -2,6 +2,7 @@
 - Carlos Magno Barbosa
 - Data: 2024
 - Estado: Funcional.
+- Objetivo: Educacional
 
 **Mini-Curso**: Crawler para coletar alvarás da cidade de São Paulo. Esse curso explora o conceito de dados abertos.
 
